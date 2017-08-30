@@ -1,0 +1,4 @@
+D:\Andrew\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.dll
+D:\Andrew\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.pdb
+D:\Andrew\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.dll
+D:\Andrew\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb
